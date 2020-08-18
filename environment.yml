@@ -1,0 +1,12 @@
+name: cos598d
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - jupyter
+  - gym
+  - matplotlib
+  - numpy
+  - scikit-learn
